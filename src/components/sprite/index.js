@@ -1,8 +1,8 @@
 import React from "react";
+import Player from "../player";
 
 export default function Sprite({ image, data, position }) {
   const { y, x, h, w } = data;
-  console.log({ image });
   return (
     <div
       style={{

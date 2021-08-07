@@ -1,7 +1,6 @@
 import React from "react";
 import Sprite from "../sprite";
 import Player from "../player";
-import char from "../../c1.png";
 
 export default function Actor({
   sprite,

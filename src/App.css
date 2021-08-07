@@ -22,3 +22,8 @@ body {
   line-height: 32px;
   height: 32px;
 }
+
+.box {
+  padding-top: 25px;
+  background-color: #eee;
+}
